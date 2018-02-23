@@ -1,8 +1,8 @@
 # React
 
 
-here is the simple step to start react with creating simple web app now i am going to tell you how to star the start react and how to 
-start you own porject .
+<p> Here is the simple step to start react with creating simple web app now I am going to tell you how to start  react and how to 
+create your own porject using react.</p> 
 before starting our project we have to know litle bit about react ......
 
 why  should learn React ?
@@ -12,7 +12,7 @@ why  should learn React ?
   :-> React uses jsx --- like DOM elements
   and last
   :-> react has a great community   like facebook 
-ok let's start 
+  ok let's start 
 
 <----Installation ---->
 #step 1
@@ -30,8 +30,11 @@ or
 npm --version
 
 #step 2
+
 create a floder react-test
+
 mkdir react-text
+
 #go to react-text folder and run this commands
 
 --> npm init
@@ -66,6 +69,7 @@ it will create one JSON FILLE FOR YOU LIKE THIS
 you have to install some 3 party packages for react so run this commands
 
 #step 3
+
 npm install  express@4 --save
 
 and open JESO FILE YOU WILL SEE 
@@ -134,7 +138,21 @@ app.listen(3000, function() {
 
 });
 
-for    
+for starting the server in port number 3000 so you can see you first page on browser
+
+for starting server code
+
+node server.js
+
+
+localhost : 3000
+
+that's it ...........byeee
+happy coding
+
+
+
+
 
 
 
